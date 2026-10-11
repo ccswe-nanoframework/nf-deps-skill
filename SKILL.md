@@ -41,7 +41,7 @@ These rules apply to every code path in this skill. They came from real incident
 
 ## Source
 
-This skill is versioned at https://github.com/CCSWE-nanoFramework/nf-deps-skill.
+This skill is versioned at https://github.com/ccswe-nanoframework/nf-deps-skill.
 
 Pull updates with:
 

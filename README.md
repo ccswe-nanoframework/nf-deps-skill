@@ -23,7 +23,7 @@ A Claude Code skill that keeps .NET nanoFramework project dependencies consisten
 Clone the repository directly into `~/.claude/skills/nf-deps` — the directory name **must** be exactly `nf-deps` because Claude Code derives the slash command (`/nf-deps`) from the install directory.
 
 ```bash
-git clone https://github.com/CCSWE-nanoFramework/nf-deps-skill.git ~/.claude/skills/nf-deps
+git clone https://github.com/ccswe-nanoframework/nf-deps-skill.git ~/.claude/skills/nf-deps
 ```
 
 > **Do not** clone into `~/.claude/skills/nf-deps-skill/` or any other path — the skill name won't resolve.

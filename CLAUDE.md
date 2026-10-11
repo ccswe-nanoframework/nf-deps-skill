@@ -41,8 +41,8 @@ Keep `SKILL.md` under ~2000 words. The body currently sits well under that; keep
 
 ## Commit / PR conventions
 
-Plain conventional-ish messages — "Add update subcommand", "Fix BOM handling in strip-private.ps1", "Document nuspec drift root cause". No Co-Authored-By or AI-attribution lines per the user's standing rule across CCSWE-nanoFramework repos. No issue-tracker prefix is required; the repo has no issue-tracker convention yet.
+Plain conventional-ish messages — "Add update subcommand", "Fix BOM handling in strip-private.ps1", "Document nuspec drift root cause". No Co-Authored-By or AI-attribution lines per the user's standing rule across ccswe-nanoframework repos. No issue-tracker prefix is required; the repo has no issue-tracker convention yet.
 
 ## Publishing
 
-This is the canonical repo at https://github.com/CCSWE-nanoFramework/nf-deps-skill. Merge to `main` is the release. Consumers pull updates with `git -C ~/.claude/skills/nf-deps pull` and the new behavior takes effect on the next `/nf-deps ...` invocation — no Claude Code restart required.
+This is the canonical repo at https://github.com/ccswe-nanoframework/nf-deps-skill. Merge to `main` is the release. Consumers pull updates with `git -C ~/.claude/skills/nf-deps pull` and the new behavior takes effect on the next `/nf-deps ...` invocation — no Claude Code restart required.
